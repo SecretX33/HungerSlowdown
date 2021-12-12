@@ -1,0 +1,25 @@
+name: ${name}
+version: ${version}
+main: ${mainClass}
+api-version: 1.13
+authors: [SecretX]
+description: ${name}
+website: https://github.com/SecretX33
+
+#commands:
+#  my_command:
+#    description: ${name}
+#    usage: /<command> <sub> [parameters]
+#    aliases: [my_alias]
+#
+#permissions:
+#
+#  plugin.*:
+#    description: Gives access to all ${name} commands. Default to players with op.
+#    default: op
+#    children:
+#      imr.reload: true
+#
+#  plugin.reload:
+#    description: Allows one to reload all plugin configurations.
+#    default: false
